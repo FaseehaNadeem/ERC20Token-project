@@ -1,1 +1,1 @@
-# Solidity-projects
+# Generate ERC-20 Token
