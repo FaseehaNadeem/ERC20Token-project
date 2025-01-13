@@ -1,1 +1,1 @@
-# Generate ERC-20 Token
+# Smart Contract Projects
