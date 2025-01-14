@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: UNLICENSED
 pragma solidity >= 0.7.0 < 0.9.0;
 abstract contract Erc20_interface{
     //functions
